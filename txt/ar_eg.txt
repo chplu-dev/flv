@@ -1,0 +1,685 @@
+raagel	raagel	raagel
+el- raagel	el- raagel	el_raagel
+{el-raagel dah}	el-raagel dah	el_raagel_dah
+howwa zaky	howwa zaky	howwa_zaky
+el- raagel dah zaky	el- raagel dah zaky	el_raagel_dah_zaky
+howwa tayyeb	howwa tayyeb	howwa_tayyeb
+el- raagel dah tayeb	el- raagel dah tayeb	el_raagel_dah_tayeb
+howwa taweel	howwa taweel	howwa_taweel
+el- raagel dah taweel	el- raagel dah taweel	el_raagel_dah_taweel
+raagel zaky	raagel zaky	raagel_zaky
+el- raagel el- zaky dah	el- raagel el- zaky dah	el_raagel_el_zaky_dah
+raagel tayyeb	raagel tayyeb	raagel_tayyeb
+el- raagel el- tayeb dah	el- raagel el- tayeb dah	el_raagel_el_tayeb_dah
+raagel taweel	raagel taweel	raagel_taweel
+el- raagel el-taweel dah	el- raagel el-taweel dah	el_raagel_el_taweel_dah
+howwa be- ye2ra	howwa be- ye2ra	howwa_be_ye2ra
+el- raagel dah be- ye2ra	el- raagel dah be- ye2ra	el_raagel_dah_be_ye2ra
+howwa be- yaakol	howwa be- yaakol	howwa_be_yaakol
+el- raagel dah be- yaakol	el- raagel dah be- yaakol	el_raagel_dah_be_yaakol
+howwa be- yeshrab	howwa be- yeshrab	howwa_be_yeshrab
+el- raagel dah be- yeshrab	el- raagel dah be- yeshrab	el_raagel_dah_be_yeshrab
+howwa be- yeghanny	howwa be- yeghanny	howwa_be_yeghanny
+el- raagel elly be- yeghanny	el- raagel elly be- yeghanny	el_raagel_elly_be_yeghanny
+howwa be- yotbokh	howwa be- yotbokh	howwa_be_yotbokh
+el- raagel elly be- yotbokh	el- raagel elly be- yotbokh	el_raagel_elly_be_yotbokh
+howwa be- ye3oom	howwa be- ye3oom	howwa_be_ye3oom
+el- raagel elly be- ye3oom	el- raagel elly be- ye3oom	el_raagel_elly_be_ye3oom
+howwa modarress	howwa modarress	howwa_modarress
+el- raagel dah modarress	el- raagel dah modarress	el_raagel_dah_modarress
+howwa doktoor	howwa doktoor	howwa_doktoor
+el- raagel dah doktoor	el- raagel dah doktoor	el_raagel_dah_doktoor
+howwa motargem	howwa motargem	howwa_motargem
+el- raagel dah motargem	el- raagel dah motargem	el_raagel_dah_motargem
+baba	baba	baba
+baba -h	baba -h	baba_h
+baba -ha	baba -ha	baba_ha
+bab -k (m) % baba -ky (f)	bab -k%baba -ky	bab_k_m%baba_ky_f
+baba modarress	baba modarress	baba_modarress
+baba -h doktoor	baba -h doktoor	baba_h_doktoor
+baba -ha motargem	baba -ha motargem	baba_ha_motargem
+baba modarress	baba modarress	baba_modarress
+baba -k modarress (m) % baba -ky modarress (f)	baba -k modarress%baba -ky modarress	baba_k_modarress_m%baba_ky_modarress_f
+ottah	ottah	ottah
+el ottah	el ottah	el_ottah
+el ottah di	el ottah di	el_ottah_di
+ottet -y	ottet -y	ottet_y
+ottet -ak (m) % ottet -ek (f) % ottet -kom (p)	ottet -ak%ottet -ek%ottet -kom	ottet_ak_m%ottet_ek_f%ottet_kom_p
+ottet -na	ottet -na	ottet_na
+ottet -oh	ottet -oh	ottet_oh
+ottet -ha	ottet -ha	ottet_ha
+ottet -hom	ottet -hom	ottet_hom
+ottah kebeerah	ottah kebeerah	ottah_kebeerah
+ottet -y kebeerah	ottet -y kebeerah	ottet_y_kebeerah
+ottah sowdah	ottah sowdah	ottah_sowdah
+ottet -oh sowdah	ottet -oh sowdah	ottet_oh_sowdah
+ottah soghayyarah	ottah soghayyarah	ottah_soghayyarah
+ottet -ha soghayyarah	ottet -ha soghayyarah	ottet_ha_soghayyarah
+kalb	kalb	kalb
+el- kalb	el- kalb	el_kalb
+el- kalb dah	el- kalb dah	el_kalb_dah
+kalb -y	kalb -y	kalb_y
+kalb baba	kalb baba	kalb_baba
+kalb -oh	kalb -oh	kalb_oh
+kalb baba -h	kalb baba -h	kalb_baba_h
+kalb -aha	kalb -aha	kalb_aha
+kalb baba -ha	kalb baba -ha	kalb_baba_ha
+shantah	shantah	shantah
+el- shantah	el- shantah	el_shantah
+el- shantah di	el- shantah di	el_shantah_di
+3aawez shantah	3aawez shantah	3aawez_shantah
+howwa 3aawez shantah	howwa 3aawez shantah	howwa_3aawez_shantah
+3aawez 3arabeyyah	3aawez 3arabeyyah	3aawez_3arabeyyah
+howwa 3aawez 3arabeyyah	howwa 3aawez 3arabeyyah	howwa_3aawez_3arabeyyah
+3aawez bait	3aawez bait	3aawez_bait
+howwa 3aawez bait	howwa 3aawez bait	howwa_3aawez_bait
+sett	sett	sett
+el- sett	el- sett	el_sett
+{el -sett dih}	el -sett dih	el_sett_dih
+heyya 3aawza 3arabeyyah	heyya 3aawza 3arabeyyah	heyya_3aawza_3arabeyyah
+el- sett dih 3awza 3arabeyyah	el- sett dih 3awza 3arabeyyah	el_sett_dih_3awza_3arabeyyah
+heyya 3aawza shantah	heyya 3aawza shantah	heyya_3aawza_shantah
+el- sett dih 3awza shantah	el- sett dih 3awza shantah	el_sett_dih_3awza_shantah
+heyya 3aawza bait	heyya 3aawza bait	heyya_3aawza_bait
+el- sett di 3aawza bait	el- sett di 3aawza bait	el_sett_di_3aawza_bait
+bait	bait	bait
+el- bait	el- bait	el_bait
+el- bait dah	el- bait dah	el_bait_dah
+{bait [gedeed]}	bait gedeed	bait_gedeed
+el- bait dah gedeed	el- bait dah gedeed	el_bait_dah_gedeed
+{bait [adeem]}	bait adeem	bait_adeem
+el- bait dah adeem	el- bait dah adeem	el_bait_dah_adeem
+bait 7elw	bait 7elw	bait_7elw
+el- bait dah 7elw	el- bait dah 7elw	el_bait_dah_7elw
+3awzeen bait	3awzeen bait	3awzeen_bait
+3aawzeen bait gedeed	3aawzeen bait gedeed	3aawzeen_bait_gedeed
+homma 3aawzeen bait	homma 3aawzeen bait	homma_3aawzeen_bait
+homma 3aawzeen bait gedeed	homma 3aawzeen bait gedeed	homma_3aawzeen_bait_gedeed
+3aawzeen bait 7elw	3aawzeen bait 7elw	3aawzeen_bait_7elw
+homma 3awzeen bait 7elw	homma 3awzeen bait 7elw	homma_3awzeen_bait_7elw
+eih?	eih	eih
+fain?	fain	fain
+emta?	emta	emta
+meen?	meen	meen
+laih?	laih	laih
+ezzay?	ezzay	ezzay
+be kaam?	be kaam	be_kaam
+reggaalah	reggaalah	reggaalah
+el- reggaalah	el- reggaalah	el_reggaalah
+el- reggaalah dol	el- reggaalah dol	el_reggaalah_dol
+3aawez eih?	3aawez eih	3aawez_eih
+heyya 3aawza eih?	heyya 3aawza eih	heyya_3aawza_eih
+el- sett di 3aawza eih?	el- sett di 3aawza eih	el_sett_di_3aawza_eih
+howwa 3aawez eih?	howwa 3aawez eih	howwa_3aawez_eih
+el- raagel dah 3aawez eih?	el- raagel dah 3aawez eih	el_raagel_dah_3aawez_eih
+homma 3aawz-een eih?	homma 3aawz-een eih	homma_3aawz_een_eih
+el- reggaalah dol 3awzeen eih?	el- reggaalah dol 3awzeen eih	el_reggaalah_dol_3awzeen_eih
+shorbah	shorbah	shorbah
+rozz	rozz	rozz
+makaronah	makaronah	makaronah
+3aish	3aish	3aish
+salatah	salatah	salatah
+gebnah	gebnah	gebnah
+feraakh	feraakh	feraakh
+la7mah	la7mah	la7mah
+khodaar	khodaar	khodaar
+samak	samak	samak
+fakeha	fakeha	fakeha
+la7met khanzeer	la7met khanzeer	la7met_khanzeer
+howwa	howwa	howwa
+heyya	heyya	heyya
+ana	ana	ana
+e7na	e7na	e7na
+homma	homma	homma
+enta (m) % enty (f) % ento (p) % 7adretak (mr) % 7adretek (fr)	enta%enty%ento%7adretak%7adretek	enta_m%enty_f%ento_p%7adretak_mr%7adretek_fr
+howwa % heyya	howwa%heyya	howwa%heyya
+eih dah?	eih dah	eih_dah
+eih elly 7asal?	eih elly 7asal	eih_elly_7asal
+eih taany?	eih taany	eih_taany
+fi moshkelah?	fi moshkelah	fi_moshkelah
+ana 3aawez aakol (m) % ana 3aawza aakol (f)	ana 3aawez aakol%ana 3aawza aakol	ana_3aawez_aakol_m%ana_3aawza_aakol_f
+heyya 3aawza taakol	heyya 3aawza taakol	heyya_3aawza_taakol
+ana 3aawez ashrab (m) % ana 3aawza ashrab (f)	ana 3aawez ashrab%ana 3aawza ashrab	ana_3aawez_ashrab_m%ana_3aawza_ashrab_f
+heyya 3aawza teshrab	heyya 3aawza teshrab	heyya_3aawza_teshrab
+ana 3aawez a2ra (m) % ana 3aawza a2ra (f)	ana 3aawez a2ra%ana 3aawza a2ra	ana_3aawez_a2ra_m%ana_3aawza_a2ra_f
+heyya 3aawza te2ra	heyya 3aawza te2ra	heyya_3aawza_te2ra
+ana ba- akol	ana ba- akol	ana_ba_akol
+e7na be- naakol	e7na be- naakol	e7na_be_naakol
+heyya be- taakol	heyya be- taakol	heyya_be_taakol
+enta be taakol (m) % enty be takly (f)	enta be taakol%enty be takly	enta_be_taakol_m%enty_be_takly_f
+homma be- yaakloo	homma be- yaakloo	homma_be_yaakloo
+ba- akol {makaronah}	ba- akol makaronah	ba_akol_makaronah
+howwa be- yaakol makaronah	howwa be- yaakol makaronah	howwa_be_yaakol_makaronah
+heyya be- taakol fakehah	heyya be- taakol fakehah	heyya_be_taakol_fakehah
+e7na be- naakol samak	e7na be- naakol samak	e7na_be_naakol_samak
+homma be- yaakloo gebnah	homma be- yaakloo gebnah	homma_be_yaakloo_gebnah
+enta be- taakol feraakh (m) % enty be- taakly feraakh (f)	enta be- taakol feraakh%enty be- taakly feraakh	enta_be_taakol_feraakh_m%enty_be_taakly_feraakh_f
+ma ba- aakol -sh la7mah	ma ba- aakol -sh la7mah	ma_ba_aakol_sh_la7mah
+heyya ma- be- taakol -sh la7mah	heyya ma- be- taakol -sh la7mah	heyya_ma_be_taakol_sh_la7mah
+ma ba- aakol -sh la7met khanzeer	ma ba- aakol -sh la7met khanzeer	ma_ba_aakol_sh_la7met_khanzeer
+heyya ma be- taakol -sh la7met khanzeer	heyya ma be- taakol -sh la7met khanzeer	heyya_ma_be_taakol_sh_la7met_khanzeer
+homma ma be- yaakloo -sh samak	homma ma be- yaakloo -sh samak	homma_ma_be_yaakloo_sh_samak
+homma ma be- yaakloo -sh gebnah	homma ma be- yaakloo -sh gebnah	homma_ma_be_yaakloo_sh_gebnah
+howwa ma be- yaakol -sh makaronah	howwa ma be- yaakol -sh makaronah	howwa_ma_be_yaakol_sh_makaronah
+howwa ma be- yaakol -sh fakehah	howwa ma be- yaakol -sh fakehah	howwa_ma_be_yaakol_sh_fakehah
+3amat eih? (m) % 3amalty eih? (f) % 3amaltoo eih? (p)	3amat eih%3amalty eih%3amaltoo eih	3amat_eih_m%3amalty_eih_f%3amaltoo_eih_p
+olt eih? (m) % olty eih? (f) % oltoo eih? (p)	olt eih%olty eih%oltoo eih	olt_eih_m%olty_eih_f%oltoo_eih_p
+heyya 3amalet eih?	heyya 3amalet eih	heyya_3amalet_eih
+heyya aalet eih?	heyya aalet eih	heyya_aalet_eih
+howwa 3amal eih?	howwa 3amal eih	howwa_3amal_eih
+howwa 2aal eih?	howwa 2aal eih	howwa_2aal_eih
+enta meen? (m) % enty meen? (f) % 7adretak meen? (mr)	enta meen%enty meen%7adretak meen	enta_meen_m%enty_meen_f%7adretak_meen_mr
+meen howwa?	meen howwa	meen_howwa
+meen el- raagel dah?	meen el- raagel dah	meen_el_raagel_dah
+meen heyya?	meen heyya	meen_heyya
+meen el- sett di?	meen el- sett di	meen_el_sett_di
+meen dol?	meen dol	meen_dol
+meen el- reggalah dol?	meen el- reggalah dol	meen_el_reggalah_dol
+ana ba- atkallem engeleezy	ana ba- atkallem engeleezy	ana_ba_atkallem_engeleezy
+heyya be- tetkallem engeleezy	heyya be- tetkallem engeleezy	heyya_be_tetkallem_engeleezy
+e7na be- netkallem engeleezy	e7na be- netkallem engeleezy	e7na_be_netkallem_engeleezy
+homma be- yetkallemoo engeleezy	homma be- yetkallemoo engeleezy	homma_be_yetkallemoo_engeleezy
+enta be- tetkallem engeleezy (m) % enty be- tetkallemy engeleezy (f) % ento be- tetkallemoo engeleezy (p) % 7adretak be- tetkallem engeleezy (mr) % 7adretek be- tetkallemy engeleezy (fr)	enta be- tetkallem engeleezy%enty be- tetkallemy engeleezy%ento be- tetkallemoo engeleezy%7adretak be- tetkallem engeleezy%7adretek be- tetkallemy engeleezy	enta_be_tetkallem_engeleezy_m%enty_be_tetkallemy_engeleezy_f%ento_be_tetkallemoo_engeleezy_p%7adretak_be_tetkallem_engeleezy_mr%7adretek_be_tetkallemy_engeleezy_fr
+howwa be- yetkallem engeleezy	howwa be- yetkallem engeleezy	howwa_be_yetkallem_engeleezy
+naas	naas	naas
+el- naas	el- naas	el_naas
+el- naas dol	el- naas dol	el_naas_dol
+ma ba- atkallem -sh engeleezy	ma ba- atkallem -sh engeleezy	ma_ba_atkallem_sh_engeleezy
+heyya ma be- tetkallem -sh engeleezy	heyya ma be- tetkallem -sh engeleezy	heyya_ma_be_tetkallem_sh_engeleezy
+el- sett di ma be- tetkallem -sh engeleezy	el- sett di ma be- tetkallem -sh engeleezy	el_sett_di_ma_be_tetkallem_sh_engeleezy
+howwa ma be- yetkallem -sh engeleezy	howwa ma be- yetkallem -sh engeleezy	howwa_ma_be_yetkallem_sh_engeleezy
+el- raagel dah ma be- yetkallem -sh engeleezy	el- raagel dah ma be- yetkallem -sh engeleezy	el_raagel_dah_ma_be_yetkallem_sh_engeleezy
+homma ma be- yetkalmoo -sh engeleezy	homma ma be- yetkalmoo -sh engeleezy	homma_ma_be_yetkalmoo_sh_engeleezy
+el- naas dol ma be- yetkallemoo -sh engeleezy	el- naas dol ma be- yetkallemoo -sh engeleezy	el_naas_dol_ma_be_yetkallemoo_sh_engeleezy
+enta be- tetkallem engeleezy? (m) % enty be- tetkalemy engeleezy? (f) % ento be- tetkallemoo engeleezy (p) % 7adretak be- tetkallem engeleezy (mr) % 7adretek be- tetkallemy engeleezy (fr)	enta be- tetkallem engeleezy%enty be- tetkalemy engeleezy%ento be- tetkallemoo engeleezy%7adretak be- tetkallem engeleezy%7adretek be- tetkallemy engeleezy	enta_be_tetkallem_engeleezy_m%enty_be_tetkalemy_engeleezy_f%ento_be_tetkallemoo_engeleezy_p%7adretak_be_tetkallem_engeleezy_mr%7adretek_be_tetkallemy_engeleezy_fr
+heyya be- tetkallem engeleezy?	heyya be- tetkallem engeleezy	heyya_be_tetkallem_engeleezy
+el- sett di be- tetkallem engeleezy?	el- sett di be- tetkallem engeleezy	el_sett_di_be_tetkallem_engeleezy
+howwa be- yetkallem engeleezy?	howwa be- yetkallem engeleezy	howwa_be_yetkallem_engeleezy
+el- raagel dah be- yetkallem engeleezy?	el- raagel dah be- yetkallem engeleezy	el_raagel_dah_be_yetkallem_engeleezy
+homma be- yetkallemoo engeleezy?	homma be- yetkallemoo engeleezy	homma_be_yetkallemoo_engeleezy
+el- naas dol be- yetkallemoo engeleezy?	el- naas dol be- yetkallemoo engeleezy	el_naas_dol_be_yetkallemoo_engeleezy
+esm -y	esm -y	esm_y
+esm -oh	esm -oh	esm_oh
+esm -aha	esm -aha	esm_aha
+esm -ak (m) % esm -ek (f) % esm 7adretak (mr) % esm 7adretek (fr)	esm -ak%esm -ek%esm 7adretak%esm 7adretek	esm_ak_m%esm_ek_f%esm_7adretak_mr%esm_7adretek_fr
+esm -ak eih? (m) % esm -ek eih? (f) % esm 7adretak eih? (mr) % esm 7adretek eih? (fr)	esm -ak eih%esm -ek eih%esm 7adretak eih%esm 7adretek eih	esm_ak_eih_m%esm_ek_eih_f%esm_7adretak_eih_mr%esm_7adretek_eih_fr
+esm -oh eih?	esm -oh eih	esm_oh_eih
+esm -aha eih?	esm -aha eih	esm_aha_eih
+esm -y Adam	esm -y adam	esm_y_adam
+esm -y Sarah	esm -y sarah	esm_y_sarah
+esm -oh Adam	esm -oh adam	esm_oh_adam
+esm -oh Sam	esm -oh sam	esm_oh_sam
+esm -aha Anna	esm -aha anna	esm_aha_anna
+esm -aha Julia	esm -aha julia	esm_aha_julia
+el- 3enwaan	el- 3enwaan	el_3enwaan
+3enwaan -y	3enwaan -y	3enwaan_y
+3enwaan -ak (m) % 3enwaan -ek (f) % 3enwaan -kom (p) % 3enwaan 7adretak (mr) % 3enwaan 7adretek (fr)	3enwaan -ak%3enwaan -ek%3enwaan -kom%3enwaan 7adretak%3enwaan 7adretek	3enwaan_ak_m%3enwaan_ek_f%3enwaan_kom_p%3enwaan_7adretak_mr%3enwaan_7adretek_fr
+3enwaan -oh	3enwaan -oh	3enwaan_oh
+3enwaan -ha	3enwaan -ha	3enwaan_ha
+3enwaan -na	3enwaan -na	3enwaan_na
+3enwaan -hom	3enwaan -hom	3enwaan_hom
+ana 3aaref esm -oh (m) % ana 3aarfah esm -oh (f)	ana 3aaref esm -oh%ana 3aarfah esm -oh	ana_3aaref_esm_oh_m%ana_3aarfah_esm_oh_f
+ana 3aaref 3enwaan -oh (m) % ana 3aarfah 3enwaan -oh (f)	ana 3aaref 3enwaan -oh%ana 3aarfah 3enwaan -oh	ana_3aaref_3enwaan_oh_m%ana_3aarfah_3enwaan_oh_f
+howwa 3aaref 3enwaan -y	howwa 3aaref 3enwaan -y	howwa_3aaref_3enwaan_y
+howwa 3aaref esm -aha	howwa 3aaref esm -aha	howwa_3aaref_esm_aha
+heyya 3aarfah 3enwaan -hom	heyya 3aarfah 3enwaan -hom	heyya_3aarfah_3enwaan_hom
+heyya 3aarfah esm -oh	heyya 3aarfah esm -oh	heyya_3aarfah_esm_oh
+el- sett di 3aarfah 3enwaan -y	el- sett di 3aarfah 3enwaan -y	el_sett_di_3aarfah_3enwaan_y
+homma 3arfeen 3enwaan -na	homma 3arfeen 3enwaan -na	homma_3arfeen_3enwaan_na
+el- naas dol 3arfeen esm -oh	el- naas dol 3arfeen esm -oh	el_naas_dol_3arfeen_esm_oh
+ana mesh 3aaref (m) % ana mesh 3aarfah (f)	ana mesh 3aaref%ana mesh 3aarfah	ana_mesh_3aaref_m%ana_mesh_3aarfah_f
+howwa mesh 3aaref	howwa mesh 3aaref	howwa_mesh_3aaref
+el- raagel dah mesh 3aaref	el- raagel dah mesh 3aaref	el_raagel_dah_mesh_3aaref
+heyya mesh 3aarfah	heyya mesh 3aarfah	heyya_mesh_3aarfah
+el- sett di mesh 3aarfah	el- sett di mesh 3aarfah	el_sett_di_mesh_3aarfah
+homma mesh 3arfeen	homma mesh 3arfeen	homma_mesh_3arfeen
+el- naas dol mesh 3arfeen	el- naas dol mesh 3arfeen	el_naas_dol_mesh_3arfeen
+mama	mama	mama
+mam-t -ak	mam-t -ak	mam_t_ak
+mam-t -oh	mam-t -oh	mam_t_oh
+mam-et -ha	mam-et -ha	mam_et_ha
+ana ba- a-3raf a-3oom	ana ba- a-3raf a-3oom	ana_ba_a_3raf_a_3oom
+howwa be- ye-3raf ye-3oom	howwa be- ye-3raf ye-3oom	howwa_be_ye_3raf_ye_3oom
+baba be- ye-3raf ye-3oom	baba be- ye-3raf ye-3oom	baba_be_ye_3raf_ye_3oom
+heyya be- te-3raf te-3oom	heyya be- te-3raf te-3oom	heyya_be_te_3raf_te_3oom
+mama be- te-3raf te-3oom	mama be- te-3raf te-3oom	mama_be_te_3raf_te_3oom
+enta be- te-3raf te-3oom (m) % enty be- te-3raf-y te-3oom-y (f) % ento be- te-3raf-oo te-3oom-oo (p) % 7adretak be- te-3raf te-3oom (mr) % 7adretek be- te3raf-y te-3oom-y (fr)	enta be- te-3raf te-3oom%enty be- te-3raf-y te-3oom-y%ento be- te-3raf-oo te-3oom-oo%7adretak be- te-3raf te-3oom%7adretek be- te3raf-y te-3oom-y	enta_be_te_3raf_te_3oom_m%enty_be_te_3raf_y_te_3oom_y_f%ento_be_te_3raf_oo_te_3oom_oo_p%7adretak_be_te_3raf_te_3oom_mr%7adretek_be_te3raf_y_te_3oom_y_fr
+e7na be- ne-3raf ne-3oom	e7na be- ne-3raf ne-3oom	e7na_be_ne_3raf_ne_3oom
+homma be- ye-3raf-oo ye-3oom-oo	homma be- ye-3raf-oo ye-3oom-oo	homma_be_ye_3raf_oo_ye_3oom_oo
+el- naas dol be- ye-3raf-oo ye-3oom-oo	el- naas dol be- ye-3raf-oo ye-3oom-oo	el_naas_dol_be_ye_3raf_oo_ye_3oom_oo
+moshkelah	moshkelah	moshkelah
+el- moshkelah	el- moshkelah	el_moshkelah
+el- moshkelah di	el- moshkelah di	el_moshkelah_di
+moshkel-t -y	moshkel-t -y	moshkel_t_y
+moshkel-t -oh	moshkel-t -oh	moshkel_t_oh
+moshkel-et -ha	moshkel-et -ha	moshkel_et_ha
+moshkel-t -ak (m) % moshkel-t -ek (f) % moshkel-et -kom (p) % moshkel-et 7adretak (mr) % moshkel-et 7adretek (fr)	moshkel-t -ak%moshkel-t -ek%moshkel-et -kom%moshkel-et 7adretak%moshkel-et 7adretek	moshkel_t_ak_m%moshkel_t_ek_f%moshkel_et_kom_p%moshkel_et_7adretak_mr%moshkel_et_7adretek_fr
+moshkel-et -na	moshkel-et -na	moshkel_et_na
+moshkel-et -hom	moshkel-et -hom	moshkel_et_hom
+3arabeyyah	3arabeyyah	3arabeyyah
+el- 3arabeyyah	el- 3arabeyyah	el_3arabeyyah
+el- 3arabeyyah di	el- 3arabeyyah di	el_3arabeyyah_di
+3and -y bait	3and -y bait	3and_y_bait
+3and -y 3arabeyyah	3and -y 3arabeyyah	3and_y_3arabeyyah
+3and -aha bait	3and -aha bait	3and_aha_bait
+3and -aha 3arabeyyah	3and -aha 3arabeyyah	3and_aha_3arabeyyah
+3and -aha ottah	3and -aha ottah	3and_aha_ottah
+3and -oh bait	3and -oh bait	3and_oh_bait
+3and -oh ottah	3and -oh ottah	3and_oh_ottah
+3and -ohom 3arabeyyah	3and -ohom 3arabeyyah	3and_ohom_3arabeyyah
+3and -ohom bait	3and -ohom bait	3and_ohom_bait
+3and -ena ottah	3and -ena ottah	3and_ena_ottah
+3and -ena bait	3and -ena bait	3and_ena_bait
+ma 3and -y -sh bait	ma 3and -y -sh bait	ma_3and_y_sh_bait
+ma 3and -y -sh 3arabeyyah	ma 3and -y -sh 3arabeyyah	ma_3and_y_sh_3arabeyyah
+ma 3and -aha -sh bait	ma 3and -aha -sh bait	ma_3and_aha_sh_bait
+ma 3and -aha -sh 3arabeyyah	ma 3and -aha -sh 3arabeyyah	ma_3and_aha_sh_3arabeyyah
+ma 3and -aha -sh ottah	ma 3and -aha -sh ottah	ma_3and_aha_sh_ottah
+ma 3and -oh -sh bait	ma 3and -oh -sh bait	ma_3and_oh_sh_bait
+ma 3and -oh -sh ottah	ma 3and -oh -sh ottah	ma_3and_oh_sh_ottah
+ma 3and -ohom -sh 3arabeyyah	ma 3and -ohom -sh 3arabeyyah	ma_3and_ohom_sh_3arabeyyah
+ma 3and -ohom -sh bait	ma 3and -ohom -sh bait	ma_3and_ohom_sh_bait
+ma 3and -ena -sh ottah	ma 3and -ena -sh ottah	ma_3and_ena_sh_ottah
+ma 3and -ena -sh bait	ma 3and -ena -sh bait	ma_3and_ena_sh_bait
+begad?	begad	begad
+mota2akked? (m) % mota2akkedah? (f)	mota2akked%mota2akkedah	mota2akked_m%mota2akkedah_f
+we enta? (m) % we enty? (f)	we enta%we enty	we_enta_m%we_enty_f
+khallast?	khallast	khallast
+sa77 keda?	sa77 keda	sa77_keda
+saba7 el kahir!	saba7 el kahir	saba7_el_kahir
+masaa2 el khair!	masaa2 el khair	masaa2_el_khair
+salamo 3alaikom!	salamo 3alaikom	salamo_3alaikom
+ahlan wa sahlan!	ahlan wa sahlan	ahlan_wa_sahlan
+shokran!	shokran	shokran
+el 3afw!	el 3afw	el_3afw
+ba3d izn-ak (m) % ba3d izn-ek (f) % ba3d izn 7adretak (mr) % ba3d izn 7adretek (fr)	ba3d izn-ak%ba3d izn-ek%ba3d izn 7adretak%ba3d izn 7adretek	ba3d_izn_ak_m%ba3d_izn_ek_f%ba3d_izn_7adretak_mr%ba3d_izn_7adretek_fr
+ana aasef (m) % ana aasf-ah (f)	ana aasef%ana aasf-ah	ana_aasef_m%ana_aasf_ah_f
+wala ye-hemm-ak (m) % wala ye-hemm-ek (f)	wala ye-hemm-ak%wala ye-hemm-ek	wala_ye_hemm_ak_m%wala_ye_hemm_ek_f
+ma3a el- salama!	ma3a el- salama	ma3a_el_salama
+etfaddal (m) % etfaddal-y (f) % etfaddal-oo (p)	etfaddal%etfaddal-y%etfaddal-oo	etfaddal_m%etfaddal_y_f%etfaddal_oo_p
+law sama7t (m) % law sama7t-y (f) % law sama7t-oo (p)	law sama7t%law sama7t-y%law sama7t-oo	law_sama7t_m%law_sama7t_y_f%law_sama7t_oo_p
+enta menain? (m) % enty menain? (f) % ento menain? (p)	enta menain%enty menain%ento menain	enta_menain_m%enty_menain_f%ento_menain_p
+enta fain? (m) % enty fain? (f) % ento fain? (p)	enta fain%enty fain%ento fain	enta_fain_m%enty_fain_f%ento_fain_p
+howwa fain?	howwa fain	howwa_fain
+heyya fain?	heyya fain	heyya_fain
+e7na fain?	e7na fain	e7na_fain
+homma fain?	homma fain	homma_fain
+ana fain?	ana fain	ana_fain
+el- 7ammaam	el- 7ammaam	el_7ammaam
+el- 7ammaam fain?	el- 7ammaam fain	el_7ammaam_fain
+el- fondo2	el- fondo2	el_fondo2
+el- fondo2 fain?	el- fondo2 fain	el_fondo2_fain
+el- mataar	el- mataar	el_mataar
+el- mataar fain?	el- mataar fain	el_mataar_fain
+delwa2ty	delwa2ty	delwa2ty
+el- nahardah	el- nahardah	el_nahardah
+bokrah	bokrah	bokrah
+embaare7	embaare7	embaare7
+ba3dain	ba3dain	ba3dain
+el- osboo3 elly gayy	el- osboo3 elly gayy	el_osboo3_elly_gayy
+el- osboo3 elly faat	el- osboo3 elly faat	el_osboo3_elly_faat
+el- shahr elly gayy	el- shahr elly gayy	el_shahr_elly_gayy
+el- shahr elly faat	el- shahr elly faat	el_shahr_elly_faat
+sa3aat	sa3aat	sa3aat
+dayman	dayman	dayman
+mo3zam el- wa2t	mo3zam el- wa2t	mo3zam_el_wa2t
+2olayyel	2olayyel	2olayyel
+ah % aywa	ah%aywa	ah%aywa
+la2a	la2a	la2a
+akeed	akeed	akeed
+mesh mota2akked (m) % mesh mota2akeddah (f)	mesh mota2akked%mesh mota2akeddah	mesh_mota2akked_m%mesh_mota2akeddah_f
+lessa	lessa	lessa
+gaayez	gaayez	gaayez
+tamam	tamam	tamam
+ma afteker -sh	ma afteker -sh	ma_afteker_sh
+ma 3and -y -sh fekrah	ma 3and -y -sh fekrah	ma_3and_y_sh_fekrah
+mafeesh moshkela!	mafeesh moshkela	mafeesh_moshkela
+zayy ma te-7ebb (m) % zayy ma te-7ebb-y (f) % zayy ma te-7ebb-oo (p)	zayy ma te-7ebb%zayy ma te-7ebb-y%zayy ma te-7ebb-oo	zayy_ma_te_7ebb_m%zayy_ma_te_7ebb_y_f%zayy_ma_te_7ebb_oo_p
+fi moshkelah	fi moshkelah	fi_moshkelah
+7aadsah	7aadsah	7aadsah
+fi 7aadsah	fi 7aadsah	fi_7aadsah
+ghaltah	ghaltah	ghaltah
+fi ghaltah	fi ghaltah	fi_ghaltah
+waa7ed	waa7ed	waa7ed
+etnain	etnain	etnain
+talaatah	talaatah	talaatah
+arba3ah	arba3ah	arba3ah
+khamsah	khamsah	khamsah
+fi el- 3arabeyyah	fi el- 3arabeyyah	fi_el_3arabeyyah
+3ala el- 3arabeyyah	3ala el- 3arabeyyah	3ala_el_3arabeyyah
+ta7t el- 3arabeyyah	ta7t el- 3arabeyyah	ta7t_el_3arabeyyah
+ganb el- 3arabeyyah	ganb el- 3arabeyyah	ganb_el_3arabeyyah
+wara el- 3arabeyyah	wara el- 3arabeyyah	wara_el_3arabeyyah
+2oddaam el- 3arabeyyah	2oddaam el- 3arabeyyah	2oddaam_el_3arabeyyah
+fekrah	fekrah	fekrah
+fekrah tanyah	fekrah tanyah	fekrah_tanyah
+2atr	2atr	2atr
+2atr taany	2atr taany	2atr_taany
+film	film	film
+film taany	film taany	film_taany
+welaad	welaad	welaad
+showayyet welaad	showayyet welaad	showayyet_welaad
+banaat	banaat	banaat
+showayyet banaat	showayyet banaat	showayyet_banaat
+3arabeyya-at	3arabeyya-at	3arabeyya_at
+showayyet 3arabeyya-at	showayyet 3arabeyya-at	showayyet_3arabeyya_at
+7add	7add	7add
+7aagah	7aagah	7aagah
+ma 7add -sh	ma 7add -sh	ma_7add_sh
+ma fi -sh 7aagah	ma fi -sh 7aagah	ma_fi_sh_7aagah
+koll el- naas	koll el- naas	koll_el_naas
+kol 7aagah	kol 7aagah	kol_7aagah
+estann-a (m) % estann-y (f) % estann-oo (p)	estann-a%estann-y%estann-oo	estann_a_m%estann_y_f%estann_oo_p
+ta3aal-a (m) % ta3aal-y (f) % ta3al-oo (p)	ta3aal-a%ta3aal-y%ta3al-oo	ta3aal_a_m%ta3aal_y_f%ta3al_oo_p
+roo7 (m) % roo7-y (f) % roo7-oo (p)	roo7%roo7-y%roo7-oo	roo7_m%roo7_y_f%roo7_oo_p
+khalleek (m) % khalleek-y (f) % khaleek-oo (p)	khalleek%khalleek-y%khaleek-oo	khalleek_m%khalleek_y_f%khaleek_oo_p
+emsh-y (m) % emsh-y (f) % emsh-oo (p)	emsh-y%emsh-y%emsh-oo	emsh_y_m%emsh_y_f%emsh_oo_p
+boss (m) % boss-y (f) % boss-oo (p)	boss%boss-y%boss-oo	boss_m%boss_y_f%boss_oo_p
+esma3 (m) % esma3-y (f) % esma3-oo (p)	esma3%esma3-y%esma3-oo	esma3_m%esma3_y_f%esma3_oo_p
+efteker (m) % eftekr-y (f) % eftekr-oo (p)	efteker%eftekr-y%eftekr-oo	efteker_m%eftekr_y_f%eftekr_oo_p
+e2r-a (m) % e2r-y (f) % e2r-oo (p)	e2r-a%e2r-y%e2r-oo	e2r_a_m%e2r_y_f%e2r_oo_p
+etfarrag (m) % etfarrag-y (f) % etfarrag-oo (p)	etfarrag%etfarrag-y%etfarrag-oo	etfarrag_m%etfarrag_y_f%etfarrag_oo_p
+emsek (m) % emsek-y (f) % emsek-oo (p)	emsek%emsek-y%emsek-oo	emsek_m%emsek_y_f%emsek_oo_p
+ana ba- a7ebb -ak (m) % ana ba- a7ebb -ek (f) % ana ba- a7ebb -oko (p)	ana ba- a7ebb -ak%ana ba- a7ebb -ek%ana ba- a7ebb -oko	ana_ba_a7ebb_ak_m%ana_ba_a7ebb_ek_f%ana_ba_a7ebb_oko_p
+howwa be- ye7ebb -ha	howwa be- ye7ebb -ha	howwa_be_ye7ebb_ha
+heyya be- te7ebb -oh	heyya be- te7ebb -oh	heyya_be_te7ebb_oh
+homma be- ye7ebbo -ha	homma be- ye7ebbo -ha	homma_be_ye7ebbo_ha
+el- naas dol be- ye7ebbo -ha	el- naas dol be- ye7ebbo -ha	el_naas_dol_be_ye7ebbo_ha
+el- naas dol be- ye7ebbo -oh	el- naas dol be- ye7ebbo -oh	el_naas_dol_be_ye7ebbo_oh
+e7na be -ne7ebb -oh	e7na be -ne7ebb -oh	e7na_be_ne7ebb_oh
+howwa be- ye7ebb -hom	howwa be- ye7ebb -hom	howwa_be_ye7ebb_hom
+el- naas dol be- ye7ebbo -hom	el- naas dol be- ye7ebbo -hom	el_naas_dol_be_ye7ebbo_hom
+keda kowayyess	keda kowayyess	keda_kowayyess
+keda we7esh	keda we7esh	keda_we7esh
+keda sa77	keda sa77	keda_sa77
+keda ghalat	keda ghalat	keda_ghalat
+keda sahl	keda sahl	keda_sahl
+keda sa3b	keda sa3b	keda_sa3b
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+modarress taweel	modarress taweel	modarress_taweel
+modarress zaky	modarress zaky	modarress_zaky
+el-modarress el-zaky	el-modarress el-zaky	el_modarress_el_zaky
+el-raagel el-taweel	el-raagel el-taweel	el_raagel_el_taweel
+el-modarress el-zaky dah	el-modarress el-zaky dah	el_modarress_el_zaky_dah
+el-modarress dah zaky	el-modarress dah zaky	el_modarress_dah_zaky
+el-modarress el-taweel dah	el-modarress el-taweel dah	el_modarress_el_taweel_dah
+el-modarress dah taweel	el-modarress dah taweel	el_modarress_dah_taweel
+el-modarress el-taweel dah zaky	el-modarress el-taweel dah zaky	el_modarress_el_taweel_dah_zaky
+el-raagel el-zaky dah taweel	el-raagel el-zaky dah taweel	el_raagel_el_zaky_dah_taweel
+sabaah el-khair! <br> sabaah el-noor.	sabaah el-khair br sabaah el-noor	sabaah_el_khair_br_sabaah_el_noor
+masaa2 el-khair! <br> masaa2 el-noor.	masaa2 el-khair br masaa2 el-noor	masaa2_el_khair_br_masaa2_el_noor
+ezzayyak? <br> kowayyess, shokran.	ezzayyak br kowayyess shokran	ezzayyak_br_kowayyess_shokran
+shokran! <br> el-3afw.	shokran br el-3afw	shokran_br_el_3afw
+esm-ak eih? <br> esm-y Adam.	esm-ak eih br esm-y adam	esm_ak_eih_br_esm_y_adam
+autobees	autobees	autobees
+tayyaarah	tayyaarah	tayyaarah
+safeenah	safeenah	safeenah
+3and-y kalb	3and-y kalb	3and_y_kalb
+3and-y ottah	3and-y ottah	3and_y_ottah
+3and-y 7osaan	3and-y 7osaan	3and_y_7osaan
+3and-ena 7osaan	3and-ena 7osaan	3and_ena_7osaan
+3and-aha kalb	3and-aha kalb	3and_aha_kalb
+3and-oh kalb	3and-oh kalb	3and_oh_kalb
+3and-oh 7osaan	3and-oh 7osaan	3and_oh_7osaan
+el-modarress dah 3and-oh 7osaan	el-modarress dah 3and-oh 7osaan	el_modarress_dah_3and_oh_7osaan
+el-modarress dah 3and-oh kalb	el-modarress dah 3and-oh kalb	el_modarress_dah_3and_oh_kalb
+3and-ak kalb	3and-ak kalb	3and_ak_kalb
+3and-ak ottah	3and-ak ottah	3and_ak_ottah
+samakah	samakah	samakah
+ba2arah	ba2arah	ba2arah
+taa2er	taa2er	taa2er
+enta menain? <br> ana men faransa.	enta menain br ana men faransa	enta_menain_br_ana_men_faransa
+3and-ak kaam sanah? <br> 3and-y 3eshreen sanah.	3and-ak kaam sanah br 3and-y 3eshreen sanah	3and_ak_kaam_sanah_br_3and_y_3eshreen_sanah
+3aawez eih? <br> 3aawez aakol.	3aawez eih br 3aawez aakol	3aawez_eih_br_3aawez_aakol
+be-te-dawwar 3ala eih? <br> ba-dawwar 3ala mat3am.	be-te-dawwar 3ala eih br ba-dawwar 3ala mat3am	be_te_dawwar_3ala_eih_br_ba_dawwar_3ala_mat3am
+walad	walad	walad
+bent	bent	bent
+3awzeen 3arabeyyah	3awzeen 3arabeyyah	3awzeen_3arabeyyah
+el-raagel dah 3aawez bait	el-raagel dah 3aawez bait	el_raagel_dah_3aawez_bait
+el-raagel dah 3aawez 3arabeyyah	el-raagel dah 3aawez 3arabeyyah	el_raagel_dah_3aawez_3arabeyyah
+enta 3aawez 3arabeyyah	enta 3aawez 3arabeyyah	enta_3aawez_3arabeyyah
+enta 3aawez bait	enta 3aawez bait	enta_3aawez_bait
+{(moshkelah) [soghayyarah]}	soghayyarah	moshkelah_soghayyarah
+{moshkelah [kebeerah]}	moshkelah kebeerah	moshkelah_kebeerah
+{moshkelah [taanyah]}	moshkelah taanyah	moshkelah_taanyah
+{(bait) [kebeer]}	kebeer	bait_kebeer
+{(as2elah) [taanyah]}	taanyah	as2elah_taanyah
+{as2elah [kowayyessah]}	as2elah kowayyessah	as2elah_kowayyessah
+{as2elah [keteerah]}	as2elah keteerah	as2elah_keteerah
+[3arabeyyah adeemah]	3arabeyyah adeemah	3arabeyyah_adeemah
+[3arabeyyah helwah]	3arabeyyah helwah	3arabeyyah_helwah
+{(3arabeyyah) [gedeedah]}	gedeedah	3arabeyyah_gedeedah
+{el-shakhs dah}	el-shakhs dah	el_shakhs_dah
+{(raqam) el-[telefon] betaa3-y}	el- telefon betaa3-y	raqam_el_telefon_betaa3_y
+{el-(3enwaan) el-[gedeed] betaa3-y}	el- el- gedeed betaa3-y	el_3enwaan_el_gedeed_betaa3_y
+{el-[passpor] betaa3-y}	el- passpor betaa3-y	el_passpor_betaa3_y
+{el-(gawaab)} wasal	el- wasal	el_gawaab_wasal
+{el-(naas)} wasaloo	el- wasaloo	el_naas_wasaloo
+{el-(doyoof)} wasaloo	el- wasaloo	el_doyoof_wasaloo
+howwa 3aawez tazkarah	howwa 3aawez tazkarah	howwa_3aawez_tazkarah
+ba-akol {feraakh}	ba-akol feraakh	ba_akol_feraakh
+ba-akol {gebnah}	ba-akol gebnah	ba_akol_gebnah
+shoft {el-(autobees)}	shoft el-	shoft_el_autobees
+shoft {el-(atr)}	shoft el-	shoft_el_atr
+shoft {el-(tayyaarah)}	shoft el-	shoft_el_tayyaarah
+3and-y {(moshkelah) [soghayyarah]}	3and-y soghayyarah	3and_y_moshkelah_soghayyarah
+3and-ena {moshkelah [kebeerah]}	3and-ena moshkelah kebeerah	3and_ena_moshkelah_kebeerah
+3and-aha {moshkelah [taanyah]}	3and-aha moshkelah taanyah	3and_aha_moshkelah_taanyah
+3and-ena {(bait) [kebeer]}	3and-ena kebeer	3and_ena_bait_kebeer
+3and-oo {bait [gedeed]}	3and-oo bait gedeed	3and_oo_bait_gedeed
+3and-ohom {bait [adeem]}	3and-ohom bait adeem	3and_ohom_bait_adeem
+3and-ak {(as2elah) [taanyah]}	3and-ak taanyah	3and_ak_as2elah_taanyah
+and-ohom {as2elah [kowayyessah]}	and-ohom as2elah kowayyessah	and_ohom_as2elah_kowayyessah
+3and-ena {as2elah [keteerah]}	3and-ena as2elah keteerah	3and_ena_as2elah_keteerah
+el-(sett) dih 3and-aha [matbakh] gedeed	el- dih 3and-aha matbakh gedeed	el_sett_dih_3and_aha_matbakh_gedeed
+el-(raagel) dah 3and-oo [3arabeyyah adeemah]	el- dah 3and-oo 3arabeyyah adeemah	el_raagel_dah_3and_oo_3arabeyyah_adeemah
+el-(shakhs) dah 3and-oo [3arabeyyah helwah]	el- dah 3and-oo 3arabeyyah helwah	el_shakhs_dah_3and_oo_3arabeyyah_helwah
+ma 3and-aha-sh {(3arabeyyah) [gedeedah]}	ma 3and-aha-sh gedeedah	ma_3and_aha_sh_3arabeyyah_gedeedah
+ma 3and-ohom-sh {as2elah taanyah}	ma 3and-ohom-sh as2elah taanyah	ma_3and_ohom_sh_as2elah_taanyah
+ma 3and-ena-sh {[ayy] moshkelah}	ma 3and-ena-sh ayy moshkelah	ma_3and_ena_sh_ayy_moshkelah
+{el-sett dih} ma 3and-aha-sh [3arabeyyah helwah]	el-sett dih ma 3and-aha-sh 3arabeyyah helwah	el_sett_dih_ma_3and_aha_sh_3arabeyyah_helwah
+{el-raagel dah} ma 3and-oo-sh [3arabeyyah adeemah]	el-raagel dah ma 3and-oo-sh 3arabeyyah adeemah	el_raagel_dah_ma_3and_oo_sh_3arabeyyah_adeemah
+{el-shakhs dah} ma 3and-oo-sh [3arabeyyah geddedah]	el-shakhs dah ma 3and-oo-sh 3arabeyyah geddedah	el_shakhs_dah_ma_3and_oo_sh_3arabeyyah_geddedah
+ana {el-(moddarress) el-[gedeed]}	ana el- el- gedeed	ana_el_moddarress_el_gedeed
+ana {el-(modeer) el-[gedeed]}	ana el- el- gedeed	ana_el_modeer_el_gedeed
+ana {el-(motargem) el-[gedeed]}	ana el- el- gedeed	ana_el_motargem_el_gedeed
+howwa fil el-(madrassa) [delwa2ty]	howwa fil el- delwa2ty	howwa_fil_el_madrassa_delwa2ty
+heyya fi {el-(mataar)} delwa2ty	heyya fi el- delwa2ty	heyya_fi_el_mataar_delwa2ty
+homma fi {el-(mostashfa)} delwa2ty	homma fi el- delwa2ty	homma_fi_el_mostashfa_delwa2ty
+enta {[tayyeb] geddan} (m) % entom {[tayyebeen] geddan} (p)	enta tayyeb geddan%entom tayyebeen geddan	enta_tayyeb_geddan_m%entom_tayyebeen_geddan_p
+heyya {gameelah [geddan]}	heyya gameelah geddan	heyya_gameelah_geddan
+ehna {[mabsooteen] (geddan)}	ehna mabsooteen	ehna_mabsooteen_geddan
+{(geeran)-na} [moz3egeen] geddan	-na moz3egeen geddan	geeran_na_moz3egeen_geddan
+{(saahb)-y} [zaky] geddan	-y zaky geddan	saahb_y_zaky_geddan
+{(zamayel)-na} [hadyeen] geddan	-na hadyeen geddan	zamayel_na_hadyeen_geddan
+{mo3zam el-(naas)} [tayyebeen]	mo3zam el- tayyebeen	mo3zam_el_naas_tayyebeen
+{mo3zam el-(atfaal)} [azkeyya]	mo3zam el- azkeyya	mo3zam_el_atfaal_azkeyya
+{mo3zam el-[kotob]} [gedeedah]	mo3zam el- kotob gedeedah	mo3zam_el_kotob_gedeedah
+ana men {(balad) [taanyah]}	ana men taanyah	ana_men_balad_taanyah
+howwa men {(makaan) [taany]}	howwa men taany	howwa_men_makaan_taany
+homma men {(madeenah) taanyah}	homma men taanyah	homma_men_madeenah_taanyah
+{el-(ketaab)} mesh [kowayyes]	el- mesh kowayyes	el_ketaab_mesh_kowayyes
+{el-(akl)} mesh [nedeef]	el- mesh nedeef	el_akl_mesh_nedeef
+{el-(autobees)} mesh [wehesh]	el- mesh wehesh	el_autobees_mesh_wehesh
+{shokran geddan} 3ala el-[mosa3dah]! <br> (El-3aafw)	shokran geddan 3ala el- mosa3dah br	shokran_geddan_3ala_el_mosa3dah_br_el_3aafw
+shokran 3ala {el-(akl) el-[helw] dah}! <br> El-3aafw	shokran 3ala el- el- helw dah br el-3aafw	shokran_3ala_el_akl_el_helw_dah_br_el_3aafw
+[shokran] 3ala {el-(fekrah) dih}! <br> El-3aafw	shokran 3ala el- dih br el-3aafw	shokran_3ala_el_fekrah_dih_br_el_3aafw
+{[aasef] 3ala el-ez3aag} <br> (wala yhemm-ak)	aasef 3ala el-ez3aag br	aasef_3ala_el_ez3aag_br_wala_yhemm_ak
+{aasef enny 3amalt (kedah)} <br> wala yhemm-ak	aasef enny 3amalt br wala yhemm-ak	aasef_enny_3amalt_kedah_br_wala_yhemm_ak
+aasef enny sa2alt {el-(so2aal) dah} <br> wala yhemm-ak	aasef enny sa2alt el- dah br wala yhemm-ak	aasef_enny_sa2alt_el_so2aal_dah_br_wala_yhemm_ak
+{3aamel eih}? <br> [ana kowayyes], (shokran)	3aamel eih br ana kowayyes	3aamel_eih_br_ana_kowayyes_shokran
+3aamel eih delwa2ty? <br> ahsan keteer, shokran	3aamel eih delwa2ty br ahsan keteer shokran	3aamel_eih_delwa2ty_br_ahsan_keteer_shokran
+{ahlan}! [(esm-y) Adam]	ahlan adam	ahlan_esm_y_adam
+ahlan! {([esm]-ak) eih}?	ahlan eih	ahlan_esm_ak_eih
+ahlan! {enta menain}?	ahlan enta menain	ahlan_enta_menain
+[ba3d izn-ak], {momken te-sa3ed-ny}?	ba3d izn-ak momken te-sa3ed-ny	ba3d_izn_ak_momken_te_sa3ed_ny
+ba3ad izn-ak, {momken te-waree-ny (haagah)}?	ba3ad izn-ak momken te-waree-ny	ba3ad_izn_ak_momken_te_waree_ny_haagah
+ba3ad izn-ak, {momken te-tkallem (b-el-raahah)}?	ba3ad izn-ak momken te-tkallem	ba3ad_izn_ak_momken_te_tkallem_b_el_raahah
+Min fadl-ak {eddee-ny (showayyet [akl])}.	min fadl-ak eddee-ny	min_fadl_ak_eddee_ny_showayyet_akl
+[Min fadl-ak] ana mehtaag {showayyet (mayyah)}.	min fadl-ak ana mehtaag showayyet	min_fadl_ak_ana_mehtaag_showayyet_mayyah
+Min fadl-ak {ana mehtaag [(makaan) anaam fih]}.	min fadl-ak ana mehtaag anaam fih	min_fadl_ak_ana_mehtaag_makaan_anaam_fih
+etfaddal {(raqam) el-[telefon] betaa3-y}	etfaddal el- telefon betaa3-y	etfaddal_raqam_el_telefon_betaa3_y
+etfaddal {el-(3enwaan) el-[gedeed] betaa3-y}	etfaddal el- el- gedeed betaa3-y	etfaddal_el_3enwaan_el_gedeed_betaa3_y
+etfaddal {el-[passpor] betaa3-y}	etfaddal el- passpor betaa3-y	etfaddal_el_passpor_betaa3_y
+{el-[bait] betaa3-ak} fain?	el- bait betaa3-ak fain	el_bait_betaa3_ak_fain
+{el-[odah] betaa3-ty} fain?	el- odah betaa3-ty fain	el_odah_betaa3_ty_fain
+momken atkallem fi el-[telefon]?	momken atkallem fi el- telefon	momken_atkallem_fi_el_telefon
+momken law samaht te-saa3ed-ny?	momken law samaht te-saa3ed-ny	momken_law_samaht_te_saa3ed_ny
+3aawez arooh el-fondo2	3aawez arooh el-fondo2	3aawez_arooh_el_fondo2
+3aawez arooh el-bait	3aawez arooh el-bait	3aawez_arooh_el_bait
+3aawez arooh el-7ammaam	3aawez arooh el-7ammaam	3aawez_arooh_el_7ammaam
+heyya 3aawzah shantah khardah	heyya 3aawzah shantah khardah	heyya_3aawzah_shantah_khardah
+howa 3aawez shantah sowdah	howa 3aawez shantah sowdah	howa_3aawez_shantah_sowdah
+homma 3aawzeen 3arabeyyah sowdah	homma 3aawzeen 3arabeyyah sowdah	homma_3aawzeen_3arabeyyah_sowdah
+el-bent dih 3aawzah ta-akol haagah	el-bent dih 3aawzah ta-akol haagah	el_bent_dih_3aawzah_ta_akol_haagah
+el-walad dah 3aawez ye-shrab haagah	el-walad dah 3aawez ye-shrab haagah	el_walad_dah_3aawez_ye_shrab_haagah
+el-raagel dah 3aawez ye-3raf haagah	el-raagel dah 3aawez ye-3raf haagah	el_raagel_dah_3aawez_ye_3raf_haagah
+el-welaad 3aawz-een ye-l3ab-oo	el-welaad 3aawz-een ye-l3ab-oo	el_welaad_3aawz_een_ye_l3ab_oo
+el-banaat 3aawz-een ye-l3ab-oo	el-banaat 3aawz-een ye-l3ab-oo	el_banaat_3aawz_een_ye_l3ab_oo
+el-atfaal 3aawz-een ye-l3ab-oo	el-atfaal 3aawz-een ye-l3ab-oo	el_atfaal_3aawz_een_ye_l3ab_oo
+mesh 3aawez shantah gedeedah	mesh 3aawez shantah gedeedah	mesh_3aawez_shantah_gedeedah
+mesh 3aawez 3arabeyyah kebeerah	mesh 3aawez 3arabeyyah kebeerah	mesh_3aawez_3arabeyyah_kebeerah
+mesh 3aawez 3arabeyyah gedeedah	mesh 3aawez 3arabeyyah gedeedah	mesh_3aawez_3arabeyyah_gedeedah
+el-naas dol 3aawz-een ya-akl-oo?	el-naas dol 3aawz-een ya-akl-oo	el_naas_dol_3aawz_een_ya_akl_oo
+el-sett dih 3aawzah te-l3ab?	el-sett dih 3aawzah te-l3ab	el_sett_dih_3aawzah_te_l3ab
+el-regaalah dol 3awzeen ye-shrab-oo?	el-regaalah dol 3awzeen ye-shrab-oo	el_regaalah_dol_3awzeen_ye_shrab_oo
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
